@@ -1,0 +1,39 @@
+body {
+	font-family: Roboto;
+	padding: 15px;
+}
+
+button {
+	display: inline-block;
+	width: 90px;
+	height: 40px;
+	padding: 1px;
+	font-size: 15px;
+	color:#fff;
+	background:#0275d8;
+	border:none;
+	bottom: 0;
+	
+
+}
+h1 {
+	padding-top:20px;
+}
+p {
+	font-size: 20px;
+}
+
+.quoteContainer {
+	box-sizing:border-box;
+	width:60%;
+	height:300px;
+	margin: 0 auto;
+	background:#ececec;
+	text-align: center;
+	position:relative;
+}
+ html{ 
+  background: #606c88; /* fallback for old browsers */
+  background: -webkit-linear-gradient(to right, #606c88, #3f4c6b); /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #606c88, #3f4c6b); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
